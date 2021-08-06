@@ -1,0 +1,1 @@
+var rangezz = rangez.shift();
